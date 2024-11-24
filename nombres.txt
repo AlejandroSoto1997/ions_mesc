@@ -1,0 +1,862 @@
+TÍTULO	
+CITADO POR
+AÑO
+Microscopic investigation of ionic conductivity in alkali metal salts-poly (ethylene oxide) adducts
+C Berthier, W Gorecki, M Minier, MB Armand, JM Chabagno, P Rigaud
+Solid State Ionics 11 (1), 91-95	1404	1983
+Magnetic-field-induced charge-stripe order in the high-temperature superconductor YBa2Cu3Oy
+T Wu, H Mayaffre, S Krämer, M Horvatić, C Berthier, WN Hardy, R Liang, ...
+Nature 477 (7363), 191-194	925	2011
+Magnetic Superstructure in the Two-Dimensional Quantum Antiferromagnet SrCu2(BO3)2
+K Kodama, M Takigawa, M Horvatic, C Berthier, H Kageyama, Y Ueda, ...
+Science 298 (5592), 395-399	397	2002
+Incipient charge order observed by NMR in the normal state of YBa2Cu3Oy
+T Wu, H Mayaffre, S Krämer, M Horvatić, C Berthier, WN Hardy, R Liang, ...
+Nature communications 6 (1), 6438	297	2015
+Emergence of charge order from the vortex state of a high-temperature superconductor
+T Wu, H Mayaffre, S Krämer, M Horvatić, C Berthier, PL Kuhns, AP Reyes, ...
+Nature communications 4 (1), 2113	283	2013
+63 Cu NMR Evidence for Enhanced Antiferromagnetic Correlations around Zn Impurities in YBa 2 Cu 3 O 6.7
+MH Julien, T Fehér, M Horvatić, C Berthier, ON Bakharev, P Ségransan, ...
+Physical review letters 84 (15), 3422	263	2000
+Controlling Luttinger liquid physics in spin ladders under a magnetic field
+M Klanjšek, H Mayaffre, C Berthier, M Horvatić, B Chiari, O Piovesana, ...
+Physical review letters 101 (13), 137207	234	2008
+Spin Gap in  Single Crystals from Cu NMR
+MH Julien, P Carretta, M Horvatić, C Berthier, Y Berthier, P Ségransan, ...
+Physical review letters 76 (22), 4238	207	1996
+NMR, DSC, and conductivity study of a poly (ethylene oxide) complex electrolyte: PEO (LiClO4) x
+W Gorecki, R Andreani, C Berthier, M Armand, M Mali, J Roos, ...
+Solid state ionics 18, 295-299	202	1986
+Evidence for a connection between charge density waves and the pressure enhancement of superconductivity in 2H-NbSe2
+C Berthier, P Molinié, D Jérome
+Solid State Communications 18 (9-10), 1393-1395	185	1976
+Evidence of Andreev bound states as a hallmark of the FFLO phase in κ-(BEDT-TTF)2Cu(NCS)2
+H Mayaffre, S Krämer, M Horvatić, C Berthier, K Miyagawa, K Kanoda, ...
+Nature Physics 10 (12), 928-932	178	2014
+Thermal analysis and NMR study of a poly (ethylene oxide) complex electrolyte: PEO (LiCF3SO3) x
+M Minier, C Berthier, W Gorecki
+Journal de Physique 45 (4), 739-744	159	1984
+Zero temperature phase transitions in spin-ladders: Phase diagram and dynamical studies of Cu2(C5H12N2)2Cl4>
+G Chaboussant, MH Julien, Y Fagot-Revurat, M Hanson, LP Lévy, ...
+The European Physical Journal B-Condensed Matter and Complex Systems 6, 167-181	156	1998
+Statics and dynamics of weakly coupled antiferromagnetic spin- ladders in a magnetic field
+P Bouillot, C Kollath, AM Läuchli, M Zvonarev, B Thielemann, C Rüegg, ...
+Physical Review B—Condensed Matter and Materials Physics 83 (5), 054407	152	2011
+Observation of an anisotropic Dirac cone reshaping and ferrimagnetic spin polarization in an organic conductor
+M Hirata, K Ishikawa, K Miyagawa, M Tamura, C Berthier, D Basko, ...
+Nature communications 7 (1), 12666	151	2016
+Homogeneous vs. inhomogeneous coexistence of magnetic order and superconductivity probed by NMR in Co-and K-doped iron pnictides
+MH Julien, H Mayaffre, M Horvatić, C Berthier, XD Zhang, W Wu, GF Chen, ...
+Europhysics Letters 87 (3), 37001	147	2009
+Charge Segregation, Cluster Spin Glass, and Superconductivity in 
+MH Julien, F Borsa, P Carretta, M Horvatić, C Berthier, CT Lin
+Physical review letters 83 (3), 604	146	1999
+NMR, conductivity and neutron scattering investigation of ionic dynamics in the anhydrous polymer protonic conductor PEO (H3PO4) x
+P Donoso, W Gorecki, C Berthier, F Defendini, C Poinsignon, MB Armand
+Solid State Ionics 28, 969-974	142	1988
+NMR studies of the normal state of high temperature superconductors
+C Berthier, MH Julien, M Horvatić, Y Berthier
+Journal de Physique I 6 (12), 2205-2236	139	1996
+Nuclear Magnetic Resonance Study of the S= 1/2 Heisenberg Ladder Cu 2 (C 5 H 12 N 2) 2 Cl 4: Quantum Phase Transition and Critical Dynamics
+G Chaboussant, Y Fagot-Revurat, MH Julien, ME Hanson, C Berthier, ...
+Physical review letters 80 (12), 2713	137	1998
+Glassy spin freezing and NMR wipeout effect in the high-T c superconductor La 1.90 Sr 0.10 CuO 4: Critical discussion of the role of stripes
+MH Julien, A Campana, A Rigamonti, P Carretta, F Borsa, P Kuhns, ...
+Physical Review B 63 (14), 144508	126	2001
+NMR Determination of 2D Electron Spin Polarization at 
+S Melinte, N Freytag, M Horvatić, C Berthier, LP Lévy, V Bayot, ...
+Physical review letters 84 (2), 354	113	2000
+High Magnetic Fields: Applications in Condensed Matter Physics and Spectroscopy
+C Berthier, LP Levy
+Springer Science & Business Media	111	2001
+NMR evidence for localized spins on Cu(2) sites from Cu NMR in  and  single crystals
+M Horvatić, P Segransan, C Berthier, Y Berthier, P Butaud, JY Henry, ...
+Physical Review B 39 (10), 7332	109	1989
+Field Evolution of Coexisting Superconducting and Magnetic Orders in 
+G Koutroulakis, MD Stewart Jr, VF Mitrović, M Horvatić, C Berthier, ...
+Physical review letters 104 (8), 087001	108	2010
+Nuclear magnetic relaxation study of poly (ethylene oxide)–lithium salt based electrolytes
+JP Donoso, TJ Bonagamba, HC Panepucci, LN Oliveira, W Gorecki, ...
+The Journal of chemical physics 98 (12), 10026-10036	107	1993
+Longitudinal and Transverse Zeeman Ladders in the Ising-Like Chain Antiferromagnet
+B Grenier, S Petit, V Simonet, E Canévet, LP Regnault, S Raymond, ...
+Physical Review Letters 114 (1), 017201	95	2015
+One-third magnetization plateau with a preceding novel phase in volborthite
+H Ishikawa, M Yoshida, K Nawa, M Jeong, S Krämer, M Horvatić, ...
+Physical review letters 114 (22), 227202	92	2015
+NMR study on a 2H-NbSe2 single crystal: a microscopic investigation of the charge density waves state
+C Berthier
+Journal of Physics C: Solid State Physics 11 (4), 797	91	1978
+Identification of Nuclear Relaxation Processes in a Gapped Quantum Magnet:  NMR in the  Heisenberg Ladder 
+G Chaboussant, MH Julien, Y Fagot-Revurat, LP Levy, C Berthier, ...
+Physical review letters 79 (5), 925	89	1997
+Anomalous spin correlations and excitonic instability of interacting 2D Weyl fermions
+M Hirata, K Ishikawa, G Matsuno, A Kobayashi, K Miyagawa, M Tamura, ...
+Science 358 (6369), 1403-1406	86	2017
+Similar glassy features in the  NMR response of pure and disordered 
+VF Mitrović, MH Julien, C De Vaulx, M Horvatić, C Berthier, T Suzuki, ...
+Physical Review B—Condensed Matter and Materials Physics 78 (1), 014504	86	2008
+Observation of Spin Susceptibility Enhancement in the Possible <?format ?>Fulde-Ferrell-Larkin-Ovchinnikov State of 
+VF Mitrović, M Horvatić, C Berthier, G Knebel, G Lapertot, J Flouquet
+Physical review letters 97 (11), 117002	86	2006
+Incomplete Devil’s Staircase in the Magnetization Curve of 
+M Takigawa, M Horvatić, T Waki, S Krämer, C Berthier, F Lévy-Bertrand, ...
+Physical Review Letters 110 (6), 067210	82	2013
+NMR investigation of single-crystal  from the underdoped to the overdoped regime
+M Horvatić, T Auler, C Berthier, Y Berthier, P Butaud, WG Clark, JA Gillet, ...
+Physical Review B 47 (6), 3461	77	1993
+Reentrant Superconductivity Driven by Quantum Tricritical Fluctuations in URhGe: Evidence from  NMR in 
+Y Tokunaga, D Aoki, H Mayaffre, S Krämer, MH Julien, C Berthier, ...
+Physical Review Letters 114 (21), 216401	75	2015
+NMR investigation of the layered transition metal phosphorus trichalcogenides and the intercalation compounds LixNiPS3
+C Berthier, Y Chabre, M Minier
+Solid State Communications 28 (4), 327-332	73	1978
+NMR Evidence of the Fröhlich Mode in Mo
+P Segransan, A Janossy, C Berthier, J Marcus, P Butaud
+Physical review letters 56 (17), 1854	72	1986
+New Phase Transition between Partially and Fully Polarized Quantum Hall States with Charge and Spin Gaps at 
+N Freytag, Y Tokunaga, M Horvatić, C Berthier, M Shayegan, LP Lévy
+Physical review letters 87 (13), 136801	69	2001
+NMR Imaging of the Soliton Lattice Profile in the Spin-Peierls Compound 
+M Horvatić, Y Fagot-Revurat, C Berthier, G Dhalenne, A Revcolevschi
+Physical review letters 83 (2), 420	69	1999
+Confinement in Bechgaard salts: Anomalous magnetoresistance and nuclear relaxation
+K Behnia, L Balicas, W Kang, D Jérome, P Carretta, Y Fagot-Revurat, ...
+Physical review letters 74 (26), 5272	69	1995
+Electronic Correlations in , the Parent Compound of Triangular Cobaltates
+C De Vaulx, MH Julien, C Berthier, S Hébert, V Pralong, A Maignan
+Physical review letters 98 (24), 246402	65	2007
+NMR Evidence for a Magnetic Soliton Lattice in the High-Field Phase of CuGe O 3
+Y Fagot-Revurat, M Horvatić, C Berthier, P Ségransan, G Dhalenne, ...
+Physical review letters 77 (9), 1861	65	1996
+Attractive Tomonaga-Luttinger liquid in a quantum spin ladder
+M Jeong, H Mayaffre, C Berthier, D Schmidiger, A Zheludev, M Horvatić
+Physical review letters 111 (10), 106404	64	2013
+Nonmagnetic Insulator State in  and Phase Separation of Na Vacancies
+C De Vaulx, MH Julien, C Berthier, M Horvatić, P Bordet, V Simonet, ...
+Physical review letters 95 (18), 186405	64	2005
+Quantum-critical spin dynamics in quasi-one-dimensional antiferromagnets
+S Mukhopadhyay, M Klanjšek, MS Grbić, R Blinder, H Mayaffre, C Berthier, ...
+Physical review letters 109 (17), 177206	63	2012
+Uniform and staggered magnetizations induced by Dzyaloshinskii-Moriya interactions in isolated and coupled spin- dimers in a magnetic field
+S Miyahara, JB Fouet, SR Manmana, RM Noack, H Mayaffre, I Sheikin, ...
+Physical Review B—Condensed Matter and Materials Physics 75 (18), 184402	63	2007
+Emergence of Orbital Nematicity in the Tetragonal Phase of BaFe2(As1−xPx)2
+T Iye, MH Julien, H Mayaffre, M Horvatić, C Berthier, K Ishida, H Ikeda, ...
+journal of the physical society of japan 84 (4), 043705	61	2015
+Electronic Texture of the Thermoelectric Oxide 
+MH Julien, C De Vaulx, H Mayaffre, C Berthier, M Horvatić, V Simonet, ...
+Physical review letters 100 (9), 096405	61	2008
+NMR study of the charge-density wave in  single crystal
+P Butaud, P Segransan, C Berthier, J Dumas, C Schlenker
+Physical Review Letters 55 (2), 253	61	1985
+Field-induced effects of anisotropic magnetic interactions in SrCu2 (BO3) 2
+K Kodama, S Miyahara, M Takigawa, M Horvatić, C Berthier, F Mila, ...
+Journal of Physics: Condensed Matter 17 (4), L61	59	2005
+Field dependence of the quantum ground state in the Shastry-Sutherland system SrCu2 (BO3) 2
+F Levy, I Sheikin, C Berthier, M Horvatić, M Takigawa, H Kageyama, ...
+Europhysics Letters 81 (6), 67004	58	2008
+NMR Evidence for a “Generalized Spin-Peierls Transition” in the High-Magnetic-Field Phase of the Spin Ladder 
+H Mayaffre, M Horvatić, C Berthier, MH Julien, P Ségransan, L Lévy, ...
+Physical Review Letters 85 (22), 4795	56	2000
+Charge density waves in layer structures: A NMR study on a 2H NbSe2 single crystal
+C Berthier, D Jerome, P Molinie, J Rouxel
+Solid State Communications 19 (2), 131-135	54	1976
+17O NMR study of YBa2Cu3O7− δ (Tc= 92 K)
+M Horvatić, Y Berthier, P Butaud, Y Kitaoka, P Ségransan, C Berthier, ...
+Physica C: Superconductivity 159 (5), 689-696	53	1989
+Impurity-Induced Local Magnetism and Density of States <?format ?>in the Superconducting State of 
+S Ouazi, J Bobroff, H Alloul, M Le Tacon, N Blanchard, G Collin, ...
+Physical review letters 96 (12), 127005	51	2006
+Semiconductor-metal transition upon intercalation in LixZrSe2
+C Berthier, Y Chabre, P Segransan, P Chevalier, L Trichet, A Le Mehaute
+Solid State Ionics 5, 379-382	51	1981
+Field-induced magnetic behavior in quasi-one-dimensional Ising-like antiferromagnet BaCoVO: A single-crystal neutron diffraction study
+E Canévet, B Grenier, M Klanjšek, C Berthier, M Horvatić, V Simonet, ...
+Physical Review B—Condensed Matter and Materials Physics 87 (5), 054408	47	2013
+Nuclear-spin-lattice relaxation rate of planar oxygen in YBa 2 Cu 3 O 6.52 and YBa 1.92 Sr 0.08 Cu 3 O 7 single crystals
+M Horvatić, C Berthier, Y Berthier, P Ségransan, P Butaud, WG Clark, ...
+Physical Review B 48 (18), 13848	46	1993
+NMR, DSC and conductivity study of the polymer solid electrolytes P (EO)(LiCp+ 1F2p+ 3SO3) x
+W Gorecki, P Donoso, C Berthier, M Mali, J Roos, D Brinkmann, ...
+Solid State Ionics 28, 1018-1022	46	1988
+NMR Investigation of How Free Composite Fermions Are at 
+N Freytag, M Horvatić, C Berthier, M Shayegan, LP Lévy
+Physical review letters 89 (24), 246804	45	2002
+Field Dependence of the Ground State in the Exotic Superconductor : <?format ?>A Nuclear Magnetic Resonance Investigation
+G Koutroulakis, VF Mitrović, M Horvatić, C Berthier, G Lapertot, J Flouquet
+Physical review letters 101 (4), 047004	44	2008
+Spin Configuration in the  Magnetization Plateau of Azurite Determined by NMR
+F Aimo, S Krämer, M Klanjšek, M Horvatić, C Berthier, H Kikuchi
+Physical Review Letters 102 (12), 127205	43	2009
+Field-Induced Quantum Soliton Lattice in a Frustrated Two-Leg Spin- Ladder
+F Casola, T Shiroka, A Feiguin, S Wang, MS Grbić, M Horvatić, S Krämer, ...
+Physical review letters 110 (18), 187201	42	2013
+Measurement of the sliding charge-density-wave phase velocity in 
+A Jánossy, C Berthier, P Ségransan, P Butaud
+Physical review letters 59 (20), 2348	42	1987
+Novel Ordered Phases in the Orthogonal Dimer Spin System SrCu2(BO3)2
+M Takigawa, T Waki, M Horvatić, C Berthier
+Journal of the Physical Society of Japan 79 (1), 011005	41	2010
+NMR Evidence for the Persistence of a Spin Superlattice Beyond the  Magnetization Plateau <?format ?>in 
+M Takigawa, S Matsubara, M Horvatić, C Berthier, H Kageyama, Y Ueda
+Physical review letters 101 (3), 037202	41	2008
+77Se NMR Evidence for the Jaccarino–Peter Mechanism in the Field Induced Superconductor, λ-(BETS)2FeCl4
+K Hiraki, H Mayaffre, M Horvatić, C Berthier, S Uji, T Yamaguchi, ...
+Journal of the Physical Society of Japan 76 (12), 124708	41	2007
+Nuclear magnetic resonance evidence for a strong modulation of the Bose-Einstein condensate in 
+S Krämer, R Stern, M Horvatić, C Berthier, T Kimura, IR Fisher
+Physical Review B—Condensed Matter and Materials Physics 76 (10), 100406	41	2007
+Dichotomy between attractive and repulsive tomonaga-luttinger liquids in spin ladders
+M Jeong, D Schmidiger, H Mayaffre, M Klanjšek, C Berthier, W Knafo, ...
+Physical review letters 117 (10), 106402	37	2016
+Analysis of the 63, 65Cu NMR data as a function of oxygen concentration in YBa2Cu3O7− δ
+M Horvatić, P Butaud, P Segransan, Y Berthier, C Berthier, JY Henry, ...
+Physica C: Superconductivity 166 (1-2), 151-157	37	1990
+Anisotropy of magnetic interactions in the spin-ladder compound (C 5 H 12 N) 2 CuBr 4
+E Čižmár, M Ozerov, J Wosnitza, B Thielemann, KW Krämer, C Rüegg, ...
+Physical Review B—Condensed Matter and Materials Physics 82 (5), 054431	36	2010
+Field-Induced Staggered Magnetization and Magnetic Ordering in 
+M Clémancey, H Mayaffre, C Berthier, M Horvatić, JB Fouet, S Miyahara, ...
+Physical review letters 97 (16), 167204	36	2006
+Hyperfine coupling and spin polarization in the bulk of the topological insulator 
+S Mukhopadhyay, S Krämer, H Mayaffre, HF Legg, M Orlita, C Berthier, ...
+Physical Review B 91 (8), 081105	35	2015
+Giant magnetic field dependence of the coupling between spin chains in 
+M Klanjšek, M Horvatić, S Krämer, S Mukhopadhyay, H Mayaffre, ...
+Physical Review B 92 (6), 060408	34	2015
+Nmr investigation of p (eo)(liclo4) x
+W Gorecki, E Belorizky, C Berthier, P Donoso, M Armand
+Electrochimica acta 37 (9), 1685-1687	34	1992
+Neutron diffraction investigation of the  phase diagram above the longitudinal incommensurate phase of 
+B Grenier, V Simonet, B Canals, P Lejay, M Klanjšek, M Horvatić, ...
+Physical Review B 92 (13), 134416	32	2015
+Crystal growth and magnetic property of MCo2V2O8 (M= Sr and Ba)
+P Lejay, E Canevet, SK Srivastava, B Grenier, M Klanjsek, C Berthier
+Journal of crystal growth 317 (1), 128-131	31	2011
+6 3, 6 5 Cu NMR investigation of CuGeO 3 ssingle crystals: mThe uniform and the dimerized spin-Peierls phase
+Y Fagot-Revurat, M Horvatic-acute, C Berthier, JP Boucher, P Ségransan, ...
+Physical Review B 55 (5), 2964	31	1997
+The Na-TiS2 system: A critical discussion of the phase boundaries, structural and NMR studies
+P Molinie, L Trichet, J Rouxel, C Berthier, Y Chabre, P Segransan
+Journal of Physics and Chemistry of Solids 45 (1), 105-112	31	1984
+Differntial scanning calometry of sodium iodide poly (ethylene oxyde) complexes
+M Minier, C Berthier, W Gorecki
+Solid State Ionics 9, 1125-1127	31	1983
+Nuclear Spin-Lattice Relaxation and EPR Studies of TTF-TCNQ and TMTTF-TCNQ Under Hydrostatic Pressure
+C Berthier, JR Cooper, D Jerome, G Soda, C Weyl, JM Fabre, L Giral
+Molecular Crystals and Liquid Crystals 32 (1), 267-270	31	1976
+Magnetic-field-enhanced spin freezing on the verge of charge ordering in YBaCuO
+T Wu, H Mayaffre, S Krämer, M Horvatić, C Berthier, CT Lin, D Haug, ...
+Physical Review B—Condensed Matter and Materials Physics 88 (1), 014511	30	2013
+91Zr Nuclear Magnetic Resonance Spectroscopy of Solid Zirconium Halides at High Magnetic Field
+O Pauvert, F Fayon, A Rakhmatullin, S Kramer, M Horvatic, D Avignant, ...
+Inorganic chemistry 48 (18), 8709-8717	30	2009
+Spin dynamics of the ferric wheel  studied by electron and nuclear spin resonance
+B Pilawa, R Boffinger, I Keilhauer, R Leppin, I Odenwald, W Wendl, ...
+Physical Review B—Condensed Matter and Materials Physics 71 (18), 184419	30	2005
+NMR studies of lamellar intercalation compounds
+C Berthier, Y Chabre, P Segransan
+Physica B+ C 99 (1-4), 107-116	30	1980
+NMR investigation of low energy excitations in high Tc superconductors
+C Berthier, JA Gillet, T Auler, Y Berthier, M Horvatić, P Ségransan, ...
+Physica Scripta 1993 (T49A), 131	28	1993
+Spin dynamics in the high-field phases of volborthite
+M Yoshida, K Nawa, H Ishikawa, M Takigawa, M Jeong, S Krämer, ...
+Physical Review B 96 (18), 180413	27	2017
+Cross-over temperatures and spin-gap in high Tc cuprate superconductors An NMR approach
+C Berthier, MH Julien, O Bakharev, M Horvatić, P Ségransan
+Physica C: Superconductivity 282, 227-230	27	1997
+High-Field Phase Diagram and Spin Structure of Volborthite Cu3V2O7(OH)2·2H2O
+M Yoshida, M Takigawa, S Krämer, S Mukhopadhyay, M Horvatić, ...
+Journal of the Physical Society of Japan 81 (2), 024703	26	2012
+High-magnetic-field NMR studies of  A quasi-one-dimensional spin  system
+P Vonlanthen, KB Tanaka, A Goto, WG Clark, P Millet, JY Henry, ...
+Physical Review B 65 (21), 214413	26	2002
+63Cu and 199Hg NMR in overdoped HgBa2CaCu2O6+ δ
+MH Julien, M Horvatić, P Carretta, C Berthier, Y Berthier, P Ségransan, ...
+Physica C: Superconductivity 268 (3-4), 197-204	26	1996
+NMR investigation of HgBa2CaCu2O6+ δ
+M Horvatić, C Berthier, P Carretta, JA Gillet, P Ségransan, Y Berthier, ...
+Physica C: Superconductivity 235, 1669-1670	26	1994
+Evidence of screening charge depression in the vicinity of chromium and manganese impurities in aluminium at low temperature
+C Berthier, M Minier
+Journal of Physics F: Metal Physics 3 (6), 1169	26	1973
+The 18-magnetization plateau state in the 2D quantum antiferromagnet SrCu2 (BO3) 2: spin superstructure, phase transition, and spin dynamics studied by high-field NMR
+M Takigawa, K Kodama, M Horvatić, C Berthier, H Kageyama, Y Ueda, ...
+Physica B: Condensed Matter 346, 27-33	25	2004
+Spin polarization of two-dimensional electrons in GaAs quantum wells around Landau level filling  from NMR measurements of gallium nuclei
+S Melinte, N Freytag, M Horvatić, C Berthier, LP Lévy, V Bayot, ...
+Physical Review B 64 (8), 085327	25	2001
+2X organic superconductors: interplay between 1-D charge localization and higher dimensionality cross-over
+D Jérome, P Auban-Senzier, L Balicas, K Behnia, W Kang, P Wzietek, ...
+Synthetic Metals 70 (1-3), 719-725	25	1995
+From underdoped to overdoped regime in YBa2Cu3O6+x, an NMR investigation of single crystals
+C Berthier, Y Berthier, P Butaud, WG Clark, JA Gillet, M Horvatic, ...
+Applied Magnetic Resonance 3, 449-468	24	1992
+Magnetic-order crossover in coupled spin ladders
+M Jeong, H Mayaffre, C Berthier, D Schmidiger, A Zheludev, M Horvatić
+Physical review letters 118 (16), 167206	23	2017
+Spatially resolved magnetization in the Bose-Einstein condensed state of BaCuSiO: Evidence for imperfect frustration
+S Krämer, N Laflorencie, R Stern, M Horvatić, C Berthier, H Nakamura, ...
+Physical Review B—Condensed Matter and Materials Physics 87 (18), 180405	23	2013
+Spin dynamics at the level crossing in the molecular antiferromagnetic ring  from proton NMR
+E Micotti, A Lascialfari, F Borsa, MH Julien, C Berthier, M Horvatić, ...
+Physical Review B—Condensed Matter and Materials Physics 72 (2), 020405	23	2005
+63 Cu and 89 Y NMR study of an optimally doped YBa 2 Cu 3 O 6.94 single crystal
+T Auler, M Horvatić, JA Gillet, C Berthier, Y Berthier, P Ségransan, ...
+Physical Review B 56 (17), 11294	23	1997
+Nuclear magnetic resonance in high magnetic field: Application to condensed matter physics
+C Berthier, M Horvatić, MH Julien, H Mayaffre, S Krämer
+Comptes Rendus. Physique 18 (5-6), 331-348	22	2017
+Quadrupolar nuclear resonance investigation of the screening charge around 3d impurities in aluminium
+C Berthier, M Minier
+Journal of Physics F: Metal Physics 7 (3), 515	22	1977
+Quadripolar nuclear resonance investigation of conduction electrons charge density around a scandium impurity in an aluminium matrix
+C Berthier, M Minier
+Journal of Physics F: Metal Physics 3 (6), 1268	22	1973
+Nuclear magnetic resonance study of the magnetic-field-induced ordered phase in the  compound
+R Blinder, M Dupont, S Mukhopadhyay, MS Grbić, N Laflorencie, ...
+Physical Review B 95 (2), 020404	21	2017
+Solid Effect between Pure-Quadrupolar Nuclear Transitions in Dilute Alloys and Its Application to  Ti
+C Berthier, M Minier
+Physical Review B 7 (5), 1854	21	1973
+Interplay between quantum fluctuations and reentrant superconductivity with a highly enhanced upper critical field in URhGe
+Y Tokunaga, D Aoki, H Mayaffre, S Krämer, MH Julien, C Berthier, ...
+Physical Review B 93 (20), 201112	20	2016
+NMR studies of low-dimensional quantum antiferromagnets
+M Horvatić, C Berthier
+High Magnetic Fields: Applications in Condensed Matter Physics and …	20	2002
+Interacting chiral electrons at the 2D Dirac points: a review
+M Hirata, A Kobayashi, C Berthier, K Kanoda
+Reports on Progress in Physics 84 (3), 036502	19	2021
+Nuclear Magnetic Resonance Reveals Disordered Level-Crossing Physics in the Bose-Glass Regime of the Br-Doped  Compound at a High …
+A Orlova, R Blinder, E Kermarrec, M Dupont, N Laflorencie, S Capponi, ...
+Physical review letters 118 (6), 067203	19	2017
+The effects of intra-dimer Dzyaloshinsky–Moriya interaction on the properties of SrCu2 (BO3) 2 in an external magnetic field
+S Miyahara, F Mila, K Kodama, M Takigawa, M Horvatic, C Berthier, ...
+Journal of Physics: Condensed Matter 16 (11), S911	19	2004
+Spin dynamics of the spin-Peierls compound CuGeO 3 under a magnetic field
+D Poilblanc, J Riera, CA Hayward, C Berthier, M Horvatic-acute
+Physical Review B 55 (18), R11941	19	1997
+High-field NMR insights into quantum spin systems
+M Horvatić, C Berthier, F Tedoldi, A Comment, M Sofin, M Jansen, R Stern
+Progress of Theoretical Physics Supplement 159, 106-113	18	2005
+EPR and NRM Investigation on TMTTF-TCNQ
+C Berthier, D Jérome, G Soda, C Weyl, L Zuppiroli, JM Fabre, L Giral
+Molecular Crystals and Liquid Crystals 32 (1), 261-265	18	1976
+Evidence of charge disproportionation in λ type BETS based organic superconductors
+K Hiraki, M Kitahara, T Takahashi, H Mayaffre, M Horvatić, C Berthier, ...
+Journal of the Physical Society of Japan 79 (7), 074711	17	2010
+NMR study of spin fluctuations in YBa2Cu3O6+ x
+C Berthier, Y Berthier, P Butaud, WG Clark, JA Gillet, M Horvatić, ...
+Physica C: Superconductivity 185, 1141-1142	17	1991
+Normal state spin susceptibility in YBa2Cu3O6. 92 single crystal from 63Cu and 89Y nuclear magnetic resonance
+T Auler, M Horvatic, JA Gillet, C Berthier, Y Berthier, P Carretta, Y Kitaoka, ...
+Physica C: Superconductivity 313 (3-4), 255-270	16	1999
+Drift velocity and temporal phase fluctuations of sliding charge density waves in Rb0. 3MoO3
+P Butaud, P Ségransan, A Jánossy, C Berthier
+Journal de Physique 51 (1), 59-89	16	1990
+C 13 NMR study of the charge-ordered state near the superconducting transition in the organic superconductor β′′-(BEDT-TTF) 4 [(H 3 O) Ga (C 2 O 4) 3]· C 6 H 5 NO 2
+Y Ihara, M Jeong, H Mayaffre, C Berthier, M Horvatić, H Seki, A Kawamoto
+Physical review B 90 (12), 121106	15	2014
+NMR study of 17O in high Tc superconducting oxides
+Y Kitaoka, Y Berthier, P Butaud, M Horvatić, P Ségransan, C Berthier, ...
+Physica C: Superconductivity and its Applications 162, 195-196	14	1989
+NMR study of large skyrmions in  quantum wells
+VF Mitrović, M Horvatić, C Berthier, SA Lyon, M Shayegan
+Physical Review B—Condensed Matter and Materials Physics 76 (11), 115335	13	2007
+Huge Transverse Magnetic Polarization in the Field-Induced Phase <?format ?>of the Antiferromagnetic Molecular Wheel 
+L Schnelzer, O Waldmann, M Horvatić, ST Ochsenbein, S Krämer, ...
+Physical review letters 99 (8), 087201	13	2007
+Observation of a lattice instability at the field-induced phase transition of the spin-gapped compound 
+JE Lorenzo, K Katsumata, Y Narumi, S Shimomura, Y Tanaka, ...
+Physical Review B—Condensed Matter and Materials Physics 69 (22), 220409	13	2004
+Quasiparticle Scattering off Defects and Possible Bound States in Charge-Ordered
+R Zhou, M Hirata, T Wu, I Vinograd, H Mayaffre, S Krämer, M Horvatić, ...
+Physical review letters 118 (1), 017001	12	2017
+Microscopic Properties of the Pinwheel Kagome Compound 
+MS Grbić, S Krämer, C Berthier, F Trousselet, O Cepas, H Tanaka, ...
+Physical review letters 110 (24), 247203	12	2013
+Magnetic structure of azurite above the magnetization plateau at  of saturation
+F Aimo, S Krämer, M Klanjšek, M Horvatić, C Berthier
+Physical Review B—Condensed Matter and Materials Physics 84 (1), 012401	12	2011
+NMR as a probe of incommensurate spin density waves in organic metals
+WG Clark, ME Hanson, SE Brown, B Alavi, G Kriza, P Segransan, ...
+Synthetic metals 86 (1-3), 1941-1947	12	1997
+Temperature dependence of La spin-lattice relaxation time in the high-T c superconductor La 1.85 Sr 0.15 Cu O 4
+P Butaud, P Segransan, C Berthier, Y Berthier, C Paulsen, JL Tholence, ...
+Physical Review B 36 (10), 5702	12	1987
+Lattice gas ordering and associated charge density modulation observed by 77Se NMR in the intercalated layered compound Li 0.5 ZrSe2
+Y Chabre, C Berthier, P Segransan
+Journal de Physique Lettres 44 (14), 619-624	12	1983
+NMR and NQR study of the tetrahedral frustrated quantum spin system  in its paramagnetic phase
+A Comment, H Mayaffre, V Mitrović, M Horvatić, C Berthier, B Grenier, ...
+Physical Review B—Condensed Matter and Materials Physics 82 (21), 214416	11	2010
+Comment on “Texture in the Superconducting Order Parameter of  Revealed by Nuclear Magnetic Resonance”
+VF Mitrović, G Koutroulakis, M Klanjšek, M Horvatić, C Berthier, G Knebel, ...
+Physical review letters 101 (3), 039701	11	2008
+NMR and magnetic susceptibility investigation of high temperature phase transitions in RbC8
+Y Chabre, P Segransan, C Berthier, FJ Di Salvo, JE Fischer
+Synthetic Metals 8 (1-2), 7-13	11	1983
+ELECTRONIC PROPERTIES OF TRANSITION METAL DICHALCOGENIDES. CONNECTION BETWEEN STRUCTURAL INSTABILITIES AND SUPERCONDUCTIVITY.
+D Jérome, C Berthier, P Molinié, J Rouxel
+11	1976
+Quadrupolar interaction around Ga in aluminium
+C Berthier, M Minier
+Solid State Communications 10 (3), 257-260	11	1972
+High-field phase diagram of the heavy-fermion metal : Pulsed-field NMR study on single crystals up to 56 T
+Y Tokunaga, A Orlova, N Bruyant, D Aoki, H Mayaffre, S Krämer, ...
+Physical Review B 99 (8), 085142	10	2019
+17O nuclear spin-lattice relaxation in YBa2Cu3O6+ x single crystals
+M Horvatić, C Berthier, Y Berthier, P Butaud, WG Clark, JA Gillet, ...
+Physica C: Superconductivity 185, 1139-1140	10	1991
+Luttinger liquid physics in the spin ladder material CuBr4(C5H12N)2
+M Klanjšek, H Mayaffre, C Berthier, M Horvatić, B Chiari, O Piovesana, ...
+physica status solidi (b) 247 (3), 656-658	9	2010
+π-d Interaction in the Field Induced Superconductor λ-(BETS)2FeCl4: Studied by 77Se NMR
+K Hiraki, H Mayaffre, M Horvatic, C Berthier, H Tanaka, A Kobayashi, ...
+Journal of low temperature physics 142, 185-190	8	2006
+High-field magnetic phases of a two-leg spin ladder: Cu2 (C5H12N2) 2Cl4
+G Chaboussant, MH Julien, Y Fagot-Revurat, H Mayaffre, M Horvatić, ...
+Physica B: Condensed Matter 280 (1-4), 315-316	8	2000
+Copper spin-spin NMR relaxation in YBCO and a comparison between NMR and inelastic neutron scattering
+JA Gillet, T Auler, M Horvatić, C Berthier, Y Berthier, P Ségransan, ...
+Physica C: Superconductivity 235, 1667-1668	8	1994
+Sliding of Charge Density Waves in a Static Electric Field
+A Jánossy, C Berthier, P Ségransan
+Physica Scripta 1987 (T19B), 578	8	1987
+Field-dependent paramagnetic relaxation enhancement in solutions of Ni (II): What happens above the NMR proton frequency of 1 GHz?
+J Kowalewski, PH Fries, D Kruk, M Odelius, AV Egorov, S Krämer, H Stork, ...
+Journal of Magnetic Resonance 314, 106737	7	2020
+Density-functional calculation of the quadrupole splitting in the 23Na NMR spectrum of the ferric wheel Na@Fe6(tea)6 + for various broken …
+FA Bischoff, O Hübner, W Klopper, L Schnelzer, B Pilawa, M Horvatić, ...
+The European Physical Journal B 55, 229-235	7	2007
+High field properties of the frustrated 2D dimer spin system SrCu2 (BO3) 2
+M Takigawa, K Kodama, M Horvatić, C Berthier, S Matsubara, ...
+Journal of Physics: Conference Series 51 (1), 23	7	2006
+NMR Study of High-Tc Superconductors
+Y Kitaoka, K Ishida, F Fujiwara, T Kondo, K Asayama, M Horvatic, ...
+Strong Correlation and Superconductivity: Proceedings of the IBM Japan …	7	1989
+Structural and magnetic properties of methylated CuHpCl
+M Clémancey, H Mayaffre, MH Julien, C Berthier, P Ségransan, A Hassan, ...
+Journal of magnetism and magnetic materials 272, 962-963	6	2004
+The grenoble GIGA-NMR project
+G Aubert, C Berthier, F Debray, M Horvatic, W Joss, G Martinez, ...
+IEEE transactions on applied superconductivity 10 (1), 732-735	6	2000
+NMR study of the high magnetic field incommensurate phase of the CuGeO3 spin-Peierls system
+M Horvatić, C Berthier, Y Fagot-Revurat, N Piegay, ME Hanson, ...
+Physica B: Condensed Matter 246, 22-26	6	1998
+63Cu NMR in the normal state of HgBa2Ca2Cu3O8+δ
+MH Julien, M Horvatić, C Berthier, P Segransan
+Journal of Low Temperature Physics 105, 371-376	6	1996
+Studies in Inorganic Chemistry
+L Trichet, O Abou Ghaloun, J Rouxel, Y Chabre, C Berthier
+Elsevier, Amsterdam	6	1983
+Effect of strains on the indirect nuclear spin-spin coupling in platinum
+C Berthier, V Jaccarino, M Minier
+Solid State Communications 17 (2), 147-151	6	1975
+lY Henry, M. Coach and, lP Chaminade
+M Horvatic, P Segrasan, C Berthier, P Butaud
+Phys. rev. B 39, 7332	5	1989
+NMR evidence for lithium ordering in Li0. 29ZrSe2
+Y Chabre, C Berthier, P Segransan, L Trichet, P Deniard
+Solid State Ionics 9, 467-469	5	1983
+Phase diagram of CeCoIn5 in the vicinity of Hc2 as determined by NMR
+VF Mitrović, G Koutroulakis, MA Vachon, M Horvatić, C Berthier, ...
+Physica B: Condensed Matter 403 (5-9), 986-989	4	2008
+93Nb NMR study of CDW in (NbSe4)10/3I single crystal
+P Butaud, P Segransan, C Berthier, A Meerschaut
+Charge Density Waves in Solids: Proceedings of the International Conference …	4	2005
+High field NMR in strongly correlated low-dimensional fermionic systems
+M Horvatić, C Berthier
+International Journal of Modern Physics B 16 (20n22), 3265-3270	4	2002
+Spin susceptibility in underdoped YBaCuO single crystals from NMR
+T Auler, C Berthier, Y Berthier, P Carretta, JA Gillet, M Horvatić, ...
+Physica C: Superconductivity 235, 1677-1678	4	1994
+NMR Studies of Charge Density Waves in Low Dimensional Conductors
+C Berthier, P Segransan
+Low-Dimensional Conductors and Superconductors, 455-476	4	1987
+NMR evidence for a metastable vortex arrangement in the two-dimensional organic superconductor -
+A Van-Quynh, C Berthier, H Mayaffre, P Segransan, P Batail
+Physical Review B 59 (18), 12064	3	1999
+NMR and NQR study of La1. 85Sr0. 15CuO4 and YBa2Cu3O6+ x (x= 0, 0.25)
+P Butaud, M Horvatic, Y Berthier, P Segransan, C Berthier, P Lejay, ...
+Physica C: Superconductivity 153, 741-742	3	1988
+Observation of electronic bound states in charge-ordered YBa  Cu  O 
+R Zhou, M Hirata, T Wu, I Vinograd, H Mayaffre, S Krämer, M Horvatić, ...
+arXiv preprint arXiv:1609.03539	2	2016
+RAPID COMMUNICATIONS-Magnetism-Nuclear magnetic resonance evidence for a strong modulation of the Bose-Einstein condensate in BaCuSi2O6
+S Kramer, R Stern, M Horvatic, C Berthier, T Kimura, IR Fisher
+Physical Review-Section B-Condensed Matter 76 (10), 100406R	2	2007
+Cu (2) nuclear resonance evidence for a magnetic phase in aged 60-K superconductors R Ba 2 Cu 3 O 6+ x (R= Tm, Y)
+AV Dooglav, H Alloul, ON Bakharev, C Berthier, AV Egorov, M Horvatic, ...
+Physical Review B 57 (18), 11792	2	1998
+Spin gap in HgBa {sub {bold 2}} Ca {sub {bold 2}} Cu {sub {bold 3}} O {sub {bold 8+{delta}}} single crystals from {sup 63} Cu NMR
+M Julien, P Carretta, M Horvatic, C Berthier, Y Berthier, P Segransan, ...
+Physical Review Letters 76 (22)	2	1996
+Cu-63 and Hg-199 NMR in overdoped HgBa2CaCu2O6+ delta
+M Julien, M Horvatic, P Carretta, C Berthier, Y Berthier, P Segransan, ...
+PHYSICA. C, SUPERCONDUCTIVITY 268, 197-204	2	1996
+NMR measurement of drift velocity and phase fluctuations of sliding charge density waves in Rb0. 3MoO3
+P Butaud, A Janossy, P Segransan, C Berthier
+Synthetic Metals 29 (2-3), 499-510	2	1989
+NMR and conductivity study of anhydrous polymer protonic conductors
+JP Donoso, W Gorecki, C Berthier, F Defendini, M Armand
+2	1987
+NMR evidence of the Frohlich mode in Rb0. 30MoO3
+P Ségransan, P Butaud, A Janossy, C Berthier, J Marcus
+Physica B+ C 143 (1-3), 120-122	2	1986
+Magnetic field-enhanced spin freezing in YBa2Cu3O6. 45 at the verge of the competition between superconductivity and charge order
+T Wu, H Mayaffre, S Krämer, M Horvatić, C Berthier, CT Lin, D Haug, ...
+arXiv preprint arXiv:1306.6306	1	2013
+Spin-chain system as a tunable simulator of frustrated planar magnetism
+M Klanjsek, M Horvatic, C Berthier, H Mayaffre, E Canevet, B Grenier, ...
+arXiv preprint arXiv:1202.6374	1	2012
+Principes de la Resonance Magnetique Nucleaire
+C Berthier, H Mayaffre
+Unpublished	1	2007
+Condensed Matter: Electronic Properties, etc.-Observation of Spin Susceptibility Enhancement in the Possible Fulde-Ferrell-Larkin-Ovchinnikov State of CeCoIn5
+VF Mitrovic, M Horvatic, C Berthier, G Knebel, G Lapertot, J Flouquet
+Physical Review Letters 97 (11), 117002-117002	1	2006
+Reply to the Comment by S. Hilbert and W. Nolting on" Calculating the Curie temperature reliably in diluted III-V ferromagnetic semiconductors"
+G Bouzerar, T Ziman, J Kudrnovsky
+Europhysics Letters 72 (2), 324	1	2005
+1H NMR measurement of the magnetic field penetration depth λab in the organic superconductor κ-(BEDT-TTF) 2Cu [N (CN) 2] Br
+A Van-Quynh, H Mayaffre, P Ségransan, C Berthier, P Batail
+Synthetic metals 103 (1-3), 1985-1986	1	1999
+Cu-63 NMR in the normal state of HgBa2Ca2Cu3O8+ delta
+MH Julien, M Horvatic, C Berthier, P Segransan
+JOURNAL OF LOW TEMPERATURE PHYSICS 105 (3-4), 371-376	1	1996
+77Se HIGH-FIELD NUCLEAR MAGNETIC RESONANCE IN (TMTSF) 2C104
+P Carretta, C Berthier, M Horvatić, Y Fagot-Revurat, P Ségransan, ...
+Proceedings of Physical Phenomena at High Magnetic Fields-II: Tallahassee …	1	1996
+NMR investigation of low energy excitations in high Tc superconductors
+C Berthier, M Horvatić, P Carretta, Y Berthier, P Ségransan, JA Gillet, ...
+Physica C: Superconductivity 235, 67-70	1	1994
+NMR study of 63, 65Cu in YBa2Cu3O7to 6.65 single crystals
+M Horvatić, P Ségransan, Y Berthier, P Butaud, Y Kitaoka, C Berthier, ...
+Physica C: Superconductivity and its Applications 162, 265-266	1	1989
+NMR and neutron diffraction studies of mixed conductors LixMPX3
+Y Chabre, P Segransan, C Berthier, G Ouvrard
+Proceedings of the International Conference on Fast Ion Transport in Solids, 221	1	1980
+PHYSICAL PROPERTIES RELATED TO CHARGE DENSITY WAVES IN LAYERED TRANSITION METAL DICHALCOGENIDES
+C Berthier, D Jérome, P Molinié
+Le Journal de Physique Colloques 38 (C7), C7-250-C7-252	1	1977
+Field-angular dependence of pairing interaction in URhGe: Comparison with UCoGe
+Y Tokunaga, D Aoki, H Mayaffre, S Krämer, MH Julien, C Berthier, ...
+Proceedings of the International Conference on Strongly Correlated Electron …		2020
+Field-induced reentrant superconductivity driven by quantum tricritical fluctuations in URhGe
+Y Tokunaga, D Aoki, H Mayaffre, S Krämer, MH Julien, C Berthier, ...
+Physica B: Condensed Matter 536, 122-124		2018
+Anomalous spin correlations and mass-generating excitonic instability of interacting weyl fermions
+M Hirata, K Ishikawa, G Matsuno, A Kobayashi, K Miyagawa, M Tamura, ...
+arXiv preprint arXiv:1702.00097		2017
+21aBC-1 κ-(BEDT-TTF) _2Cu (NCS) _2 の超伝導における FFLO 状態: Andreev 束縛状態の NMR による観測
+宮川和也， 鹿野田一司
+日本物理学会講演概要集 71.1, 1891		2016
+Quantum tricritical fluctuations driving mass enhancement and reentrant superconductivity in URhGe
+Y Tokunaga, D Aoki, H Mayaffre, S Krämer, MH Julien, C Berthier, ...
+Journal of Physics: Conference Series 683 (1), 012010		2016
+Svojstva singletnog osnovnog stanja" vjetrenjače" u Rb2Cu3SnF12
+MS Grbić, S Krämer, C Berthier, F Trousselet, O Cépas, H Tanaka, ...
+Deveti znanstveni sastanak Hrvatskog fizikalnog društva, 54-54		2015
+NMR investigation of charge order in YBaCuO in high magnetic fields
+M Hirata, H Mayaffre, S Kraemer, M Horvatic, C Berthier, MH Julien, ...
+Bulletin of the American Physical Society 59		2014
+NMR studies of anisotropy and metal-insulator crossover in quasi-one-dimensional metal Li0.9Mo6O17
+G Wu, WG Clark, S Brown, JJ Neumeier, CAM Dos Santos, J Marcus, ...
+APS March Meeting Abstracts 2014, D6. 006		2014
+NMR investigation of charge order in YBa2Cu3Oy in high magnetic fields
+M Hirata, H Mayaffre, S Kraemer, M Horvatic, C Berthier, M Julien, ...
+APS March Meeting Abstracts 2014, Y52. 005		2014
+Field-induced magnetic behavior in a quasi-one-dimensional Ising-like antiferromagnet: a detailed single crystal neutron diffraction study
+B Grenier, E Canévet, M Klanjsek, C Berthier, M Horvatic, V Simonet, ...
+Physical Review B: Condensed Matter and Materials Physics (1998-2015) 87 (5 …		2013
+Sensitivity-enhanced high-resolution NMR of half-integer quadrupolar nuclei at 30Tesla
+H Stork, S Kramer, M Horvatic, C Berthier, O Pauvert, F Fayon, ...
+EUROMAR 2010 & 17th ISMAR-WWMR210		2010
+Luttinger liquid physics in the spin ladder material CuBr {sub 4}(C {sub 5} H {sub 12} N){sub 2}
+M Klanjsek, H Mayaffre, C Berthier, M Horvatic, B Chiari, O Piovesana, ...
+Physica Status Solidi B (Basic Research) 247		2010
+NMR investigation on quasi-one-dimensional purple bronze Li0.9Mo6O17
+G Wu, WG Clark, SE Brown, JJ Neumeier, CAM Dos Santos, J Marcus, ...
+APS March Meeting Abstracts 2010, L38. 010		2010
+Reply to the Comment by SE Sebastian and N. Harrison
+F Lévy, I Sheikin, C Berthier, M Horvatic, M Takigawa
+arXiv preprint arXiv:0906.4484		2009
+BEC of triplon in the complex quantum spin liquid BaCuSi2O6
+R Stern, S Kraemer, M Horvatic, I Heinmaa, E Joon, C Berthier, T Kimura, ...
+APS March Meeting Abstracts, Y29. 008		2009
+Phase Diagram of CeCoIn5 in the Vicinity of Hc2 as Determined by NMR (vol 403, pg 986, 2008)
+VF Mitrovic, G Koutroulakis, MA Vachon, M Horvatic, C Berthier, ...
+PHYSICA B-CONDENSED MATTER 403 (19-20), 3846-3846		2008
+Erratum to “Phase Diagram of CeCoIn5 in the Vicinity of H as Determined by NMR” [Physica B 403 (2008) 986]
+VF Mitrović, G Koutroulakis, MA Vachon, M Horvatić, C Berthier, ...
+Physica B Condensed Matter 403 (19-20), 3846-3846		2008
+Phase diagram of CeCoIn {sub 5} in the vicinity of H {sub c2} as determined by NMR
+VF Mitrovic, G Koutroulakis, MA Vachon, M Horvatic, C Berthier, ...
+Physica. B, Condensed Matter 403		2008
+Similar glassy features in the 139La NMR response of pure and disordered La1. 88Sr0. 12CuCO4 VF Mitrovic
+MH Julien, C de Vaulx, M Horvatic, C Berthier, T Suzuki, K Yamada
+Phys. Rev. B 78, 1-7		2008
+Nature of the superconducting state of CeCoIn5 as revealed by NMR.
+G Koutroulakis, V Mitrovic, MA Vachon, M Horvatic, C Berthier, G Knebel, ...
+APS March Meeting Abstracts, J12. 003		2008
+Phase diagram of Formula Not Shown in the vicinity of Formula Not Shown as determined by NMR
+VF Mitrovic, G Koutroulakis, MA Vachon, M Horvatic, C Berthier, ...
+PHYSICA B 403 (5), 986-989		2008
+High field NMR in low dimensional quantum antiferromagnets
+C Berthier, M Klanjsek, S Kraemer, M Horvatic, H Mayaffre
+Verhandlungen der Deutschen Physikalischen Gesellschaft 43 (1)		2008
+NMR evidence for a strong modulation of the Bose-Einstein Condensate in BaCuSiO
+S Kramer, R Stern, M Horvatic, C Berthier, T Kimura, IR Fisher
+arXiv preprint arXiv:0704.0888		2007
+NMR evidence for a strong modulation of the Bose-Einstein Condensate in BaCuSi2O6
+S Krämer, R Stern, M Horvatic, C Berthier, T Kimura, IR Fisher
+arXiv preprint arXiv:0704.0888		2007
+Complex 2D Oxide BaCuSi2O6: A NMR Study
+R Stern, S Krämer, M Horvatic, C Berthier, I Heinmaa, E Joon, T Kimura, ...
+APS March Meeting Abstracts, N15. 012		2007
+Bose-Einstein Condensation in weakly coupled S= 1/2 two-leg spin ladders
+H Mayaffre, M Klanjsek, C Berthier, M Horvatic, B Chiari, O Piovesana
+PHYSICAL REVIEW LETTERS 75		2007
+Condensed Matter: Electronic Properties, etc.-Huge Transverse Magnetic Polarization in the Field-Induced Phase of the Antiferromagnetic Molecular Wheel CsFe8
+L Schnelzer, O Waldmann, M Horvatic, ST Ochsenbein, S Kramer, ...
+Physical Review Letters 99 (8), 87201-87201		2007
+NMR Study of the Possible FFLO State in CeCoIn 
+C Berthier, G Knebel, G Lapertot, J Flouquet
+Bulletin of the American Physical Society		2006
+NMR Study of the Possible FFLO State in CeCoIn5
+VF Mitrović, M Horvatić, C Berthier, G Knebel, G Lapertot, J Flouquet
+APS March Meeting Abstracts, R44. 009		2006
+^51V-NMR investigation of the spin-frustrated magnet Ni3V2O8.
+WG Clark, P Ranin, G Wu, G Gaidos, G Lawes, AP Ramirez, RJ Cava, ...
+APS March Meeting Abstracts, J1. 129		2006
+Comment on “Localized behavior near the Zn impurity in  as measured by nuclear quadrupole resonance”
+MH Julien, Y Tokunaga, T Fehér, M Horvatić, C Berthier
+Physical Review B—Condensed Matter and Materials Physics 71 (17), 176501		2005
+Spin superstructure in the 18-magnetization plateau phase of the 2D orthogonal dimer spin system SrCu2 (BO3) 2
+K Kodama, M Takigawa, M Horvatić, C Berthier, H Kageyama, Y Ueda, ...
+Journal of magnetism and magnetic materials 272, 25-26		2004
+The 1/8-magnetization plateau state in the 2D quantum antiferromagnet SrCu {sub 2}(BO {sub 3}){sub 2}: spin superstructure, phase transition, and spin dynamics studied by high …
+M Takigawa, K Kodama, M Horvatic, C Berthier, H Kageyama, Y Ueda, ...
+Physica. B, Condensed Matter 346		2004
+NMR investigation of Field Induced Spin Density Waves in (TMTSF) 2ClO4
+H Mayaffre, V Mitrovic, C Berthier, M Horvatic
+APS March Meeting Abstracts 2004, V19. 002		2004
+New Phase Transition between Partially and Fully Polarized Quantum Hall States with Charge and Spin Gaps at nu=(2/3)
+C Berthier, N Freytag, M Horvatic, M Shayegan, Y Tokunaga
+Physical Review Letters 87 (13)		2003
+NMR studies of the ν= 2/3 phase transition
+O Stern, N Freytag, W Dietsche, JH Smet, K von Klitzing, M Bichler, ...
+26th International Conference on Physics of Semiconductors		2003
+Spin polarization of two-dimensional electrons in GaAs quantum wells around Landau level filling v= 1 from NMR measurements of gallium nuclei
+S Melinte, N Freytag, M Horvatić, C Berthier, LP Lévy, V Bayot, ...
+Physical Review B-Condensed Matter and Materials Physics 64 (8), 853271-853279		2001
+Glassy spin freezing and NMR wipeout effect in the high-T {sub c} superconductor La {sub 1.90} Sr {sub 0.10} CuO {sub 4}: Critical discussion of the role of stripes
+MH Julien, A Campana, A Rigamonti, P Carretta, F Borsa, P Kuhns, ...
+Physical Review B 63 (14)		2001
+Spin polarization of two-dimensional electrons in GaAs quantum wells around Landau level filling (formula presented) from NMR measurements of gallium nuclei
+M Horvatić, C Berthier, LP Lévy, S Melinte, N Freytag, V Bayot, ...
+Physical Review B-Condensed Matter and Materials Physics 64 (8)		2001
+Unpolarizable ground states in the fractional quantum Hall effect at ν= 2/3
+N Freytag, Y Tokunaga, M Horvatić, C Berthier, M Shayegan, L Lévy
+Electronic Correlations: From Meso-to Nanophysics, 59-66		2001
+Semiconductors II: Surfaces, interfaces, microstructures, and related topics-Spin polarization of two-dimensional electrons in GaAs quantum wells around Landau level filling v …
+S Melinte, N Freytag, M Horvatic, C Berthier, LP Levy, V Bayot, ...
+Physical Review-Section B-Condensed Matter 64 (8), 85327-85327		2001
+Superfluidity and superconductivity-Glassy spin freezing and NMR wipeout effect in the high-Tc superconductor La1. 90Sr0. 10CuO4: Critical discussion of the role of stripes
+MH Julien, A Campana, A Rigamonti, P Carretta, F Borsa, P Kuhns, ...
+Physical Review-Section B-Condensed Matter 63 (14), 144508-144508		2001
+Glassy Spin Freezing and NMR Wipeout Effect in the High-T_c Superconductor La1. 90Sr0. 10CuO4: What is the Relationship With Stripes?
+MH Julien, A Campana, A Rigamonti, P Carretta, F Borsa, P Kuhns, ...
+arXiv preprint cond-mat/0010362		2000
+Spin Polarization of 2D Electrons in GaAs Quantum Wells at ν= 1/2 from Gallium NMR Measurements
+N Freytag, M Horvatić, C Berthier, LP Lévy, S Melinte, V Bayot, ...
+APS March Meeting Abstracts, C17. 008		2000
+NMR Measurements of GaAs/AlGaAs Multiple Quantum Wells Heterostructures around Landau Level Filling Factor ν= 1
+S Melinte, V Bayot, N Freytag, LP Lévy, M Horvatić, C Berthier, ...
+APS March Meeting Abstracts, G17. 001		2000
+Condensed Matter: Electronic Properties, etc.-NMR Evidence for a Generalized Spin-Peierls Transition in the High-Magnetic-Field Phase of the Spin Ladder Cu2 (C5H12N2) 2Cl4
+H Mayaffre, M Horvatic, C Berthier, MH Julien, P Segransan, L Levy, ...
+Physical Review Letters 85 (22), 4795-4798		2000
+High magnetic field NMR studies of quantum spin chains and ladders
+C Berthier, M Horvatić, Y Fagot-Revurat, MH Julien, G Chaboussant, ...
+Journal of the Physical Society of Japan 69, 54-58		2000
+Charge Segregation, Cluster Spin Glass, and Superconductivity in La {sub 1.94} Sr {sub 0.06} CuO {sub 4}
+M Julien, F Borsa, P Carretta, M Horvatic, C Berthier, CT Lin
+Physical Review Letters 83 (3)		1999
+High magnetic field NMR studies of quantum spins chains and ladders.
+G Kido, M Horvatić, C Berthier
+Proceedings of the 4th International Symposium on Advanced Physical Fields …		1999
+1H NMR measurement of the magnetic field penetration depth λab in the organic superconductor κ-(BEDT-TTF)2Cu[N(CN)2]Br
+H Mayaffre, P Segransan, C Berthier, P Batail, A Van-Ouynh
+Synthetic Metals 103 (1-3), 1985-1986		1999
+NMR study of the CuGeO3 spin-Peierls system
+A Revcolevschi, G Dhalenne, P Segransan, C Berthier, M Horvatic, ...
+Journal of Magnetism and Magnetic Materials 177 (1), 669-670		1998
+NMR study of the CuGeO3 spin-Peierls system
+M Horvatić, Y Fagot-Revurat, ME Hanson, C Berthier, P Ségransan, ...
+Journal of magnetism and magnetic materials 177, 669-670		1998
+NMR study of the S= 1/2 Heisenberg Ladder Cu2 (C5H12N2) 2Cl4: Quantum phase transition and critical dynamics
+G Chaboussant, Y Fagot-Revurat, MH Julien, ME Hanson, C Berthier, ...
+arXiv preprint cond-mat/9711124		1997
+{sup 63} Cu and {sup 89} YNMR study of an optimally doped YBa {sub 2} Cu {sub 3} O {sub 6.94} single crystal
+T Auler, M Horvatic, JA Gillet, C Berthier, Y Berthier, P Segransan, ...
+Physical Review, B: Condensed Matter 56 (17)		1997
+Spin dynamics of a S= 1/2 antiferromagnetic Heisenberg ladder: H NMR in Cu {sub 2}(C {sub 5} H {sub 12} N {sub 2}){sub 2} Cl {sub 4}
+G Chaboussant, MH Julien, Y Fagot-Revurat, M Horvatic, C Berthier, ...
+1997
+Spin Dynamics of a S= 1/2 Antiferromagnetic Heisenberg Ladder:^ 1H NMR in Cu (CHN) Cl
+G Chaboussant, MH Julien, Y Fagot-Revurat, M Horvatić, C Berthier, ...
+APS March Meeting Abstracts, F11. 10		1997
+Evidence of the staggered magnetization in the incommensurate spin-Peierls phase of CuGeO_3
+ME Hanson, Y Fagot-Revurat, M Horvatic, P Segransan, C Berthier
+APS March Meeting Abstracts, C19. 06		1997
+Spin dynamics of a S=1/2 antiferromagnetic Heisenberg ladder: H NMR in Cu2(C5H12N2)2Cl4
+G Chaboussant, MH Julien, Y Fagot-Revurat, M Horvatic, C Berthier, ...
+1997
+{sup 63} Cu NMR in the normal state of HgBa {sub 2} Ca {sub 2} Cu {sub 3} O {sub 8+{delta}}
+MH Julien, M Horvatic, C Berthier
+Journal of Low Temperature Physics 105 (CONF-960808-)		1996
+Nuclear magnetic resonance in high-T {sub c} superconductors; Ressonancia magnetica nuclear em supercondutores de alto T {sub c}
+LTS Auler, C Berthier, Y Berthier, JA Gillet, P Segransan, M Horvatic, ...
+1994
+NMR investigation of HgBa2CaCu2O6+δ
+JJ Capponi, C Berthier, JA Gillet, P Ségransan, Y Berthier, M Horvatić
+Physica C Superconductivity 235, 1669-1670		1994
+Étude par résonance magnétique nucléaire des oxydes supraconducteurs à haute température critique YBa2Cu3O (6+ x)
+JA Gillet
+Université Joseph Fourier (Grenoble; 1971-2015)		1994
+NMR investigation of low energy excitations in high T [sub c] superconductors
+C Berthier, JA Gillet, T Auler, Y Berthier, M Horvatic, P Segransan, ...
+Physica Scripta T;(Sweden) 49		1993
+NMR Investigation of Low-Energy Excitations in YBa2Cu3O6+x Single Crystals
+T Auler, C Berthier, Y Berthier, P Butaud, WG Clark, JA Gillett, M Horvatić, ...
+Electronic Properties of High-T c Superconductors: The Normal and the …		1993
+17O and 63Cu NMR study of anisotropic magnetic fluctuations in a single crystal of YBa2Cu3O6+ x: Comparison with neutron diffraction
+WG Clark, C Berthier, Y Berthier, P Butaud, JY Henry, M Horvatić, ...
+Journal of Magnetism and Magnetic Materials 104, 589-590		1992
+sup 17 O and sup 63 Cu NMR study of anisotropic magnetic fluctuations in a single crystal of YBa sub 2 O sub 6+ x: comparison with neutron diffraction
+WG Clark, C Berthier, Y Berthier, P Butaud, P Segransan, JY Henry, ...
+Journal of Magnetism and Magnetic Materials;(Netherlands) 104		1992
+Nuclear Spectroscopy of Charge Density Waves in Molybdenum Bronzes
+C Berthier, A Jánossy, P Butaud, P Segransan
+Nuclear Spectroscopy on Charge Density Wave Systems, 177-227		1992
+NMR study of spin fluctuations in YBa sub 2 Cu sub 3 O sub 6+ x
+C Berthier, Y Berthier, P Butaud, JA Gillet, P Segransan, WG Clark, ...
+Physica C: Superconductivity;(Netherlands) 185		1991
+Estudos por ressonancia magnetica nuclear e espectroscopia infravermelha de condutores ionicos polimericos
+JP Donoso, LHC Mattoso, MG Cavalcante, W Gorecki, C Berthier, ...
+Anais		1991
+17O and 63Cu NMR Investigation of Spin Fluctuations in High Tc Superconducting Oxides
+C Berthier, Y Berthier, P Butaud, M Horvatic, Y Kitaoka, P Segransan
+Dynamics of Magnetic Fluctuations in High-Temperature Superconductors, 73-85		1991
+super (17) O NMR YBa sub (2) Cu sub (3) O sub (6. 65) discrimination between t-J and two-band models. A new approach.
+P Butaud, M Horvatic, Y Berthier, P Segransan, Y Kitaoka, C Berthier
+PHYSICA C. 166 (3), 301-309		1990
+NMR study of the polymer solid electrolyte PEO'('LI'B'F IND. 4) IND X'
+JP Donoso, MG Cavalcante, W Gorecki, C Berthier, M Armand
+Proceedings		1990
+Estudos por ressonância magnética nuclear em eletrólitos poliméricos sólidos
+JP Donoso, LHC Mattoso, MG Cavalcante, W Gorecki, C Berthier, ...
+Anais		1990
+Relajacion nuclear en conductores ionicos polimericos
+JP Donoso, MG Cavalcante, W Gorecki, C Berthier, M Armand
+Contribuciones Cientificas Y Tecnologicas 7, 381-4		1990
+17O, 63Cu and 89Y NMR Investigation of Spin Fluctuations in High TC Superconducting YBa2Cu3O6+x
+C Berthier, Y Berthier, P Butaud, M Horvatić, P Ségransan
+25th Congress Ampere on Magnetic Resonance and Related Phenomena: Extended …		1990
+NMR Study of the Polymer Solid Electrolyte PEO (LIBF4)x
+JP Donoso, MG Cavalcante, W Gorecki, C Berthier, M Armand
+25th Congress Ampere on Magnetic Resonance and Related Phenomena: Extended …		1990
+NMR Study of Charge Density Waves
+C Berthier, P Ségransan, P Butaud, A Janossy
+25th Congress Ampere on Magnetic Resonance and Related Phenomena: Extended …		1990
+Nuclear magnetic resonance studies in solid polymeric electrolyte. Estudos por ressonancia magnetica nuclear em eletrolitos polimericos solidos
+JP Donoso, LHC Mattoso, MG Cavalcante, W Gorecki, C Berthier, ...
+1990
+17O NMR Investigation of the Electronic Structure of High-Tc Superconducting Oxides
+C Berthierl, Y Berthierl, P Butaudl, M Horvatti, P Stgransan
+Electronic Properties of High-Tc Superconductors and Related Compounds …		1990
+NMR study of sup 63, 65 Cu in YBa sub 2 Cu sub 3 O sub 7 sub to sub 6. 65 single crystals
+M Horvatic, P Segransan, Y Berthier, P Butaud, Y Kitaoka, C Berthier, ...
+Physica C: Superconductivity;(Netherlands) 162		1989
+NMR study of sup 17 O in high Tc superconducting oxides
+Y Kitaoka, Y Berthier, P Butaud, M Horvatic, P Segransan, C Berthier, ...
+Physica C: Superconductivity;(Netherlands) 162		1989
+NMR evidence for localized spins on Cu (2) sites from Cu NMR in YBa/sub 2/Cu/sub 3/O/sub 7/and YBa/sub 2/Cu/sub 3/O/sub 6. 75/single crystals
+M Horvatic, P Segransan, C Berthier, Y Berthier, P Butaud, JY Henry, ...
+Phys. Rev. B: Condens. Matter;(United States) 39 (10)		1989
+Ressonancia magnetica nuclear em eletrolitos solidos de tipo polimerico
+JP Donoso, MG Cavalcante, C Berthier, W Gorecki
+Ciência e Cultura 40 (7 supl.), 356-7		1988
+Nmr, qens and conductivity studies of the anhydrous polymer protonic conductor p (eo)('H IND. 3'p'O IND. 4') ind. X'
+JP Donoso, W Gorecki, C Berthier, F Defendini, C Poinsignon, ...
+Proceedings		1988
+Temperature dependence of La spin-lattice relaxation time in the high-T/sub c/superconductor La/sub 1. 85/Sr/sub 0. 15/CuO/sub 4
+P Butaud, P Segransan, C Berthier, Y Berthier, C Paulsen, JL Tholence, ...
+Phys. Rev. B: Condens. Matter;(United States) 36 (10)		1987
+NMR, DSC and conductivity study in the polymer solid electrolytes P (EO)'LI''('C IND. P+ 1''F IND. 2P+ 3'S'O IND. 3') IND. X'
+W Gorecki, JP Donoso, C Berthier, M Mali, J Roos, D Brinkmann, ...
+Abstracts		1987
+SOLID PROTONIC ELECTROLYTES BASED ON POLY (ETHYLENEOXIDE)
+F DEFENDINI, MB ARMAND, W GORECKI, C BERTHIER
+JOURNAL OF THE ELECTROCHEMICAL SOCIETY 133 (8), C332-C332		1986
+NMR study of anhydrous polymer protonic conductors
+JP Donoso, W Gorecki, C Berthier, F Defendini, M Armand
+Proceedings		1986
+Ion-Electron Interaction and Intercalation Induced Semiconductor to Metal Transition in the Intercalated Dichalcogenide LixZrSe2
+C Berthier, Y Chabre, P Segransan, P Deniard, L Trichet, J Rouxel
+Physics and Chemistry of Electrons and Ions in Condensed Matter, 561-569		1984
+NMR INVESTIGATION OF SOLID ELECTROLYTES AND SOLID SOLUTION ELECTRODES
+C BERTHIER
+Fast Ion Transport in Solids: Electrodes, and Electrolytes: Proceedings of …		1979
+G. BRUN, B. LIAUTARD, S. PEYTAVIN, M. MAU-RIN, E. TOREILLES, JM FABRE, L. GIRAL et JL GALIGNÉ.-Sels du radical cationique TMTTF (Tétraméthyltétrathiofulvalène). Structures et …
+J VRIJEN, S RADELAAR, D SCHWAHN, C BERTHIER, D JÉROME, ...
+Colloques internationaux du Centre national de la recherche scientifique 7 …		1978
+LAYER COMPOUNDS. CHARGE DENSITY WAVES IN TRANSITIONS METAL COMPOUNDS.
+EPOFTM DICHALCOGENIDES, D JÉROME, C BERTHIER, P MOLINIÉ, ...
+Les Transitions métal-non métal: actes du colloque international sur les …		1976
+Electronic Properties of Transition-Metal Dichalcogenides(NbS 2, TaS 2, NbSe 2 and TaSe 2)--Connection Between Structural Instabilites and Superconductivity
+D Jerome, C Berthier, P Molinie, J Rouxel
+J. Phys.(Paris), Oct. 1976, Suppl., 37,(10), 125-135		1976
+Evidence for Field‐Induced Excitonic Correlations and Topological Insulating state in α-(BEDT-TTF) 2I3 under Pressure
+M Hirata, T Taniguchi, D Ohki, H Mayaffre, K Miyagawa, M Tamura, ...
+High Magnetic Fields [electronic resource]: Applications in Condensed Matter Physics and Spectroscopy
+C Berthier, LP Lévy, G Martinez
+Berlin, Heidelberg: Springer Berlin Heidelberg,		
+Observation of a new phase transition between fully and partially polarized quantum Hall states with charge and spin gaps at ν= 2
+N Freytag, Y Tokunaga, M Horvatic, C Berthier, M Shayegan, LP Lévy
+arXiv preprint cond-mat/0105590		
+RÉSONANCE MAGNÉTIQUE NUCLÉAIRE DANS LA PHASE MIXTE DES COMPOSÉS ORGANIQUES DE LA FAMILLE κ-(BEDT-TTF)  2 CuX
+A Van Quynh, C Berthier
+Protected article Thermal analysis and NMR study of a poly (ethylene oxide) complex electrolyte: PEO (LiCF3SO3) x
+M Minier, C Berthier, W Gorecki
+xcvi List of Contributors
+P Berberieh, C Bernhard, C Berthier, CE Beuran, E Beuran, EC Beuran, ...
+Andrii, W. 481 Andreani, LC 1327 Andreev, AV 21, 1305, 1329
+T Anezaki, T Abe, N Achiwa, GJ Ackland, G Aeppli, I Affleck, A Aharoni, ...
+The following colleagues have helped us in reviewing t 6th International Conference on Solid State Ionics. Their time consu
+JR Akridge, EK Anderson, A Angel, M Armand, A Atkinson, J Bates, ...
+Reentrant superconductivity induced by strong magnetic field in uranium based heavy-fermion compound URhGe
+Y Tokunaga, H Sakai, T Hattori, S Kambe, D Aoki, H Mayaffre, S Krämer, ...
+Cu (2) nuclear resonance evidence for a magnetic phase in aged 60-K superconductors RBa2Cu3O6+ x (R= Tm, Y)
+Y Sakhratov, A Egorov, H Alloul, M Horvatic, M Teplov, O Bakharev, ...
+Nuclear magnetic resonance in high-T c superconductors
+LTS Auler, C Berthier, Y Berthier, JA Gillet, P Segransan, M Horvatic, ...
+NMR study of superionic conductor Nasub (1-x) Ysub (x) Fsub (1+ 2x)
+L Pontonnier, Y Chabre, C Berthier
+Etude de quelques problèmes fondamentaux sur des matériaux de cathode et des électrolytes polymères pour générateurs électrochimiques tout solide. Etude de composés …
+C BERTHIER, Y CHABRE
+Charge densitiy waves in transition metal dichalcogenides: a pulsed NMR study on a single crystal of 2H-NbSe 2
+D Jerome, C Berthier, P Molinie
+Nuclear magnetic resonance studies in solid polymeric electrolyte
+JP Donoso, LHC Mattoso, MG Cavalcante, W Gorecki, C Berthier, ...
+High-Field Exploration of Charge Order in Underdoped YBa 2 Cu 3 O 6.77
+M Hirata, H Mayaffre, S Kraemer, M Horvatic, C Berthier, MH Julien, ...
+High magnetic fields: applications in condensed matter physics and spectroscopy(Cargèse, 2001)
+C Berthier, LP Lévy, G Martinez
+Lecture notes in physics
